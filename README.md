@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abi613
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning 12th grade
+- 👀 I’m interested in arduino 
+- 🌱 I’m currently learning Electrical and Electronics Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ravi2abeesh@gmail.com
 
