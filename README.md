@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abi613
-- 👀 I’m interested in arduino 
+- 👀 I’m interested in Embedded systems
 - 🌱 I’m currently learning Electrical and Electronics Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ravi2abeesh@gmail.com
